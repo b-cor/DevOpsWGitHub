@@ -1,5 +1,5 @@
 name: GitHub Actions Demo
-on: push
+on: delete
 jobs:
   Example-Actions-Job:
     name: Exploring GitHub Actions
